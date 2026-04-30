@@ -38,6 +38,19 @@
       "createdAt": "2026-04-30T12:01:00.000Z",
       "subtasks": [],
       "comments": []
+    },
+    {
+      "id": "task_1777552684766",
+      "title": "让砚知令写个文案",
+      "description": "砚知令写个关于毛选的文案",
+      "project": "default",
+      "tags": [
+        "default"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-04-30T12:38:04.766Z",
+      "status": "in_progress"
     }
   ],
   "projects": [
@@ -56,5 +69,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-04-30T12:36:26.713Z"
+  "lastUpdated": "2026-04-30T12:38:04.766Z"
 }
