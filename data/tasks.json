@@ -7,11 +7,21 @@
       "status": "backlog",
       "priority": "medium",
       "project": "default",
-      "tags": ["Mission Control"],
+      "tags": [
+        "Mission Control"
+      ],
       "createdAt": "2026-04-30T12:00:00.000Z",
       "subtasks": [
-        { "id": "sub_1", "title": "了解看板流转", "done": false },
-        { "id": "sub_2", "title": "连接 GitHub Token", "done": false }
+        {
+          "id": "sub_1",
+          "title": "了解看板流转",
+          "done": false
+        },
+        {
+          "id": "sub_2",
+          "title": "连接 GitHub Token",
+          "done": false
+        }
       ],
       "comments": []
     },
@@ -22,17 +32,29 @@
       "status": "todo",
       "priority": "low",
       "project": "default",
-      "tags": ["Mission Control"],
+      "tags": [
+        "Mission Control"
+      ],
       "createdAt": "2026-04-30T12:01:00.000Z",
       "subtasks": [],
       "comments": []
     }
   ],
   "projects": [
-    { "id": "default", "name": "General", "icon": "📋", "color": "#6366f1" }
+    {
+      "id": "default",
+      "name": "General",
+      "icon": "📋",
+      "color": "#6366f1"
+    }
   ],
   "activities": [
-    { "type": "created", "actor": "Mission Control", "task": "Mission Control 就绪", "time": "just now" }
+    {
+      "type": "created",
+      "actor": "Mission Control",
+      "task": "Mission Control 就绪",
+      "time": "just now"
+    }
   ],
-  "lastUpdated": "2026-04-30T12:00:00.000Z"
+  "lastUpdated": "2026-04-30T12:36:26.713Z"
 }
