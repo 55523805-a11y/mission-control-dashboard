@@ -284,7 +284,7 @@
       "title": "🧪 测试：Superpowers 协作流程",
       "description": "测试量天尺 + 零差错 + 算法侯的完整协作流程。\n\n**目标:** 验证设计方案 → 交接检查 → 开发执行这条链路是否通畅。",
       "status": "backlog",
-      "project": "测试",
+      "project": "",
       "tags": [
         "test",
         "workflow"
@@ -343,5 +343,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-05-01T09:15:13.115Z"
+  "lastUpdated": "2026-05-01T09:15:27.468Z"
 }
